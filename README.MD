@@ -200,3 +200,14 @@
 12. https://lipsum.com/
 13. https://corsidia.com/materia/web-design/caratterispecialihtml
 14. https://www.w3schools.com/html/html_lists.asp
+15. https://www.w3.org/WAI/
+16. https://www.w3.org/International/i18n-drafts/nav/about
+17. https://www.w3.org/mission/security/
+18. https://www.w3.org/mission/privacy/
+19. https://www.w3.org/ecosystems/automotive-transportation/
+20. https://www.w3.org/ecosystems/media/
+21. https://www.w3.org/ecosystems/publishing/
+22. https://www.w3.org/ecosystems/e-commerce/
+23. https://www.w3.org/2013/data/
+24. https://www.w3.org/ecosystems/network-communications/
+25. https://www.w3.org/WoT/
